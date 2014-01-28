@@ -76,8 +76,6 @@ procedure Cyclic_Scheduler is
          Put(result_Z);
          New_Line;
       end loop;
-      
-      -- Complete the code for the scheduler...
 	  
    end Scheduler;
 
