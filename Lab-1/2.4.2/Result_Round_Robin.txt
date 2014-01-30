@@ -1,5 +1,5 @@
 :: Results of Round_Robin_Within_Priorities, 10, 20::
-:: Single Core Processor, Executed in root mode ::
+:: Executed in Single Core Processor, root mode ::
 
 /home/il2206/periodictasks
   0.026 : 20
