@@ -61,7 +61,7 @@ procedure Cyclic_Scheduler is
       result_Z : Integer; -- Output from System_Z
       Start : Time;
       Next_Release : Time;
-      Release : Time_Span := Milliseconds(700);
+      Release : Time_Span := Milliseconds(750);
       Period : Time_Span := Milliseconds(1000);
    begin
      
