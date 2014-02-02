@@ -32,7 +32,7 @@ procedure Cyclic_Scheduler is
          result_X := System_Function_Package.System_A(X);
          New_Line;
          Put("X Executed ");
-         Put(Duration'Image(To_Duration(Release)));
+         Put(Duration'Image(To_Duration(Period)));
          New_Line;
       end loop;
    end Source_X;
@@ -52,7 +52,7 @@ procedure Cyclic_Scheduler is
          result_Y := System_Function_Package.System_B(Y);
          New_Line;
          Put("Y Executed :");
-         Put(Duration'Image(To_Duration(Release)));
+         Put(Duration'Image(To_Duration(Period)));
          New_Line;
       end loop;
    end Source_Y;
