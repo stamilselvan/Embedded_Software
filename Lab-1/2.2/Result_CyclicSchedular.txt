@@ -1,0 +1,62 @@
+/home/il2206/cyclic_scheduler
+
+Compute X 
+X Executed  1.000000000
+
+Compute Y 
+Y Executed : 1.000000000
+
+Compute Z 
+Output is Z :           4
+
+Compute X 
+X Executed  1.000000000
+
+Compute Y 
+Y Executed : 1.000000000
+
+Compute Z 
+Output is Z :          12
+
+Compute X 
+X Executed  1.000000000
+
+Compute Y 
+Y Executed : 1.000000000
+
+Compute Z 
+Output is Z :          24
+
+Compute X 
+X Executed  1.000000000
+
+Compute Y 
+Y Executed : 1.000000000
+
+Compute Z 
+Output is Z :          40
+
+Compute X 
+X Executed  1.000000000
+
+Compute Y 
+Y Executed : 1.000000000
+
+Compute Z 
+Output is Z :          60
+
+Compute X 
+X Executed  1.000000000
+
+Compute Y 
+Y Executed : 1.000000000
+
+Compute Z 
+Output is Z :          84
+
+Compute X 
+X Executed  1.000000000
+
+Compute Y 
+Y Executed : 1.000000000
+[2014-02-03 00:29:22] <^C> process interrupted (elapsed time: 06.93s)
