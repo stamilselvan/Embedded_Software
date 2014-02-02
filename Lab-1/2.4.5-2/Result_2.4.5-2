@@ -1,0 +1,1026 @@
+/home/il2206/overloaddetection
+In WDTExecuting Task Priority :  20
+Time_Stamp :   0.004
+Measurement of Execution Times
+  5 :   0.091s
+Time_Stamp :   0.096
+Executing Task Priority :  17
+Time_Stamp :   0.096
+Measurement of Execution Times
+  5 :   0.091s
+Time_Stamp :   0.187
+Executing Task Priority :  14
+Time_Stamp :   0.188
+Measurement of Execution Times
+  5 :   0.090s
+Time_Stamp :   0.278
+Executing Task Priority :  10
+Time_Stamp :   0.278
+Measurement of Execution Times
+Executing Task Priority :  20
+Time_Stamp :   0.300
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :   0.393
+Executing Task Priority :  17
+Time_Stamp :   0.400
+Measurement of Execution Times
+  5 :   0.099s
+Time_Stamp :   0.500
+Executing Task Priority :  20
+Time_Stamp :   0.601
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :   0.693
+Executing Task Priority :  14
+Time_Stamp :   0.693
+Measurement of Execution Times
+  5 :   0.091s
+Time_Stamp :   0.785
+Executing Task Priority :  17
+Time_Stamp :   0.800
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :   0.893
+Executing Task Priority :  20
+Time_Stamp :   0.900
+Measurement of Execution Times
+  5 :   0.093s
+Time_Stamp :   0.993
+ 10 :   0.747s
+Time_Stamp :   1.026
+Executing Task Priority :  10
+Time_Stamp :   1.026
+Measurement of Execution Times
+Executing Task Priority :  20
+Time_Stamp :   1.201
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :   1.293
+Executing Task Priority :  17
+Time_Stamp :   1.293
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :   1.385
+Executing Task Priority :  14
+Time_Stamp :   1.385
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :   1.477
+Executing Task Priority :  20
+Time_Stamp :   1.535
+Measurement of Execution Times
+  5 :   0.093s
+Time_Stamp :   1.628
+Executing Task Priority :  17
+Time_Stamp :   1.629
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :   1.721
+ 10 :   0.698s
+Time_Stamp :   1.724
+Calling : WDT : 
+Success : WDT
+Executing Task Priority :  20
+Time_Stamp :   1.801
+Measurement of Execution Times
+  5 :   0.091s
+Time_Stamp :   1.892
+Executing Task Priority :  14
+Time_Stamp :   1.893
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :   1.985
+Executing Task Priority :  10
+Time_Stamp :   1.985
+Measurement of Execution Times
+Executing Task Priority :  17
+Time_Stamp :   2.000
+Measurement of Execution Times
+  5 :   0.091s
+Time_Stamp :   2.091
+Executing Task Priority :  20
+Time_Stamp :   2.100
+Measurement of Execution Times
+  5 :   0.093s
+Time_Stamp :   2.193
+ 10 :   0.371s
+Time_Stamp :   2.356
+Executing Task Priority :  20
+Time_Stamp :   2.401
+Measurement of Execution Times
+  5 :   0.093s
+Time_Stamp :   2.494
+Executing Task Priority :  17
+Time_Stamp :   2.495
+Measurement of Execution Times
+  5 :   0.093s
+Time_Stamp :   2.587
+Executing Task Priority :  14
+Time_Stamp :   2.588
+Measurement of Execution Times
+  5 :   0.090s
+Time_Stamp :   2.678
+Executing Task Priority :  20
+Time_Stamp :   2.701
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :   2.793
+Executing Task Priority :  10
+Time_Stamp :   2.794
+Measurement of Execution Times
+Executing Task Priority :  17
+Time_Stamp :   2.801
+Measurement of Execution Times
+  5 :   0.091s
+Time_Stamp :   2.892
+Executing Task Priority :  20
+Time_Stamp :   3.001
+Measurement of Execution Times
+  5 :   0.093s
+Time_Stamp :   3.094
+Executing Task Priority :  14
+Time_Stamp :   3.094
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :   3.186
+Executing Task Priority :  17
+Time_Stamp :   3.200
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :   3.293
+Executing Task Priority :  20
+Time_Stamp :   3.300
+Measurement of Execution Times
+  5 :   0.098s
+Time_Stamp :   3.399
+ 10 :   0.657s
+Time_Stamp :   3.451
+In WDTExecuting Task Priority :  20
+Time_Stamp :   3.603
+Measurement of Execution Times
+  5 :   0.094s
+Time_Stamp :   3.697
+Executing Task Priority :  17
+Time_Stamp :   3.697
+Measurement of Execution Times
+  5 :   0.091s
+Time_Stamp :   3.789
+Executing Task Priority :  14
+Time_Stamp :   3.789
+Measurement of Execution Times
+  5 :   0.091s
+Time_Stamp :   3.880
+Executing Task Priority :  10
+Time_Stamp :   3.881
+Measurement of Execution Times
+Executing Task Priority :  20
+Time_Stamp :   3.900
+Measurement of Execution Times
+  5 :   0.091s
+Time_Stamp :   3.992
+Executing Task Priority :  17
+Time_Stamp :   4.000
+Measurement of Execution Times
+  5 :   0.091s
+Time_Stamp :   4.092
+Executing Task Priority :  20
+Time_Stamp :   4.201
+Measurement of Execution Times
+  5 :   0.095s
+Time_Stamp :   4.295
+Executing Task Priority :  14
+Time_Stamp :   4.296
+Measurement of Execution Times
+  5 :   0.094s
+Time_Stamp :   4.390
+Executing Task Priority :  17
+Time_Stamp :   4.400
+Measurement of Execution Times
+  5 :   0.097s
+Time_Stamp :   4.498
+Executing Task Priority :  20
+Time_Stamp :   4.501
+Measurement of Execution Times
+  5 :   0.090s
+Time_Stamp :   4.592
+ 10 :   0.744s
+Time_Stamp :   4.625
+Executing Task Priority :  10
+Time_Stamp :   4.626
+Measurement of Execution Times
+Executing Task Priority :  20
+Time_Stamp :   4.800
+Measurement of Execution Times
+  5 :   0.093s
+Time_Stamp :   4.893
+Executing Task Priority :  17
+Time_Stamp :   4.894
+Measurement of Execution Times
+  5 :   0.094s
+Time_Stamp :   4.988
+Executing Task Priority :  14
+Time_Stamp :   4.988
+Measurement of Execution Times
+  5 :   0.095s
+Time_Stamp :   5.083
+ 10 :   0.466s
+Time_Stamp :   5.092
+Calling : WDT : 
+Success : WDT
+Executing Task Priority :  20
+Time_Stamp :   5.101
+Measurement of Execution Times
+  5 :   0.093s
+Time_Stamp :   5.194
+Executing Task Priority :  17
+Time_Stamp :   5.201
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :   5.293
+Executing Task Priority :  20
+Time_Stamp :   5.403
+Measurement of Execution Times
+  5 :   0.099s
+Time_Stamp :   5.502
+Executing Task Priority :  14
+Time_Stamp :   5.503
+Measurement of Execution Times
+  5 :   0.095s
+Time_Stamp :   5.598
+Executing Task Priority :  10
+Time_Stamp :   5.598
+Measurement of Execution Times
+Executing Task Priority :  17
+Time_Stamp :   5.601
+Measurement of Execution Times
+Executing Task Priority :  20
+Time_Stamp :   5.700
+Measurement of Execution Times
+  5 :   0.100s
+Time_Stamp :   5.801
+  5 :   0.200s
+Time_Stamp :   5.801
+ 10 :   0.385s
+Time_Stamp :   5.983
+Executing Task Priority :  20
+Time_Stamp :   6.001
+Measurement of Execution Times
+  5 :   0.094s
+Time_Stamp :   6.095
+Executing Task Priority :  17
+Time_Stamp :   6.095
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :   6.187
+Executing Task Priority :  14
+Time_Stamp :   6.188
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :   6.280
+Executing Task Priority :  20
+Time_Stamp :   6.301
+Measurement of Execution Times
+  5 :   0.093s
+Time_Stamp :   6.394
+Executing Task Priority :  10
+Time_Stamp :   6.395
+Measurement of Execution Times
+Executing Task Priority :  17
+Time_Stamp :   6.400
+Measurement of Execution Times
+  5 :   0.091s
+Time_Stamp :   6.492
+Executing Task Priority :  20
+Time_Stamp :   6.601
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :   6.693
+Executing Task Priority :  14
+Time_Stamp :   6.694
+Measurement of Execution Times
+  5 :   0.091s
+Time_Stamp :   6.785
+Executing Task Priority :  17
+Time_Stamp :   6.800
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :   6.893
+Executing Task Priority :  20
+Time_Stamp :   6.900
+Measurement of Execution Times
+  5 :   0.093s
+Time_Stamp :   6.993
+ 10 :   0.660s
+Time_Stamp :   7.055
+In WDTExecuting Task Priority :  20
+Time_Stamp :   7.204
+Measurement of Execution Times
+  5 :   0.107s
+Time_Stamp :   7.311
+Executing Task Priority :  17
+Time_Stamp :   7.312
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :   7.404
+Executing Task Priority :  14
+Time_Stamp :   7.404
+Measurement of Execution Times
+  5 :   0.091s
+Time_Stamp :   7.495
+Executing Task Priority :  10
+Time_Stamp :   7.496
+Measurement of Execution Times
+Executing Task Priority :  20
+Time_Stamp :   7.500
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :   7.592
+Executing Task Priority :  17
+Time_Stamp :   7.600
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :   7.692
+Executing Task Priority :  20
+Time_Stamp :   7.801
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :   7.893
+Executing Task Priority :  14
+Time_Stamp :   7.893
+Measurement of Execution Times
+  5 :   0.091s
+Time_Stamp :   7.984
+Executing Task Priority :  17
+Time_Stamp :   8.000
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :   8.092
+Executing Task Priority :  20
+Time_Stamp :   8.100
+Measurement of Execution Times
+  5 :   0.093s
+Time_Stamp :   8.194
+ 10 :   0.738s
+Time_Stamp :   8.234
+Executing Task Priority :  10
+Time_Stamp :   8.235
+Measurement of Execution Times
+Executing Task Priority :  20
+Time_Stamp :   8.400
+Measurement of Execution Times
+  5 :   0.157s
+Time_Stamp :   8.557
+Executing Task Priority :  17
+Time_Stamp :   8.558
+Measurement of Execution Times
+  5 :   0.091s
+Time_Stamp :   8.649
+Executing Task Priority :  14
+Time_Stamp :   8.650
+Measurement of Execution Times
+Executing Task Priority :  20
+Time_Stamp :   8.700
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :   8.792
+Executing Task Priority :  17
+Time_Stamp :   8.800
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :   8.893
+  5 :   0.279s
+Time_Stamp :   8.928
+ 10 :   0.715s
+Time_Stamp :   8.950
+Calling : WDT : 
+Success : WDT
+Executing Task Priority :  20
+Time_Stamp :   9.003
+Measurement of Execution Times
+  5 :   0.094s
+Time_Stamp :   9.097
+Executing Task Priority :  14
+Time_Stamp :   9.097
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :   9.189
+Executing Task Priority :  10
+Time_Stamp :   9.189
+Measurement of Execution Times
+Executing Task Priority :  17
+Time_Stamp :   9.201
+Measurement of Execution Times
+  5 :   0.091s
+Time_Stamp :   9.293
+Executing Task Priority :  20
+Time_Stamp :   9.300
+Measurement of Execution Times
+  5 :   0.093s
+Time_Stamp :   9.394
+ 10 :   0.368s
+Time_Stamp :   9.557
+Executing Task Priority :  20
+Time_Stamp :   9.602
+Measurement of Execution Times
+  5 :   0.091s
+Time_Stamp :   9.693
+Executing Task Priority :  17
+Time_Stamp :   9.694
+Measurement of Execution Times
+  5 :   0.091s
+Time_Stamp :   9.784
+Executing Task Priority :  14
+Time_Stamp :   9.785
+Measurement of Execution Times
+  5 :   0.091s
+Time_Stamp :   9.876
+Executing Task Priority :  20
+Time_Stamp :   9.902
+Measurement of Execution Times
+  5 :   0.095s
+Time_Stamp :   9.997
+Executing Task Priority :  10
+Time_Stamp :   9.997
+Measurement of Execution Times
+Executing Task Priority :  17
+Time_Stamp :  10.000
+Measurement of Execution Times
+  5 :   0.090s
+Time_Stamp :  10.091
+Executing Task Priority :  20
+Time_Stamp :  10.201
+Measurement of Execution Times
+  5 :   0.091s
+Time_Stamp :  10.292
+Executing Task Priority :  14
+Time_Stamp :  10.293
+Measurement of Execution Times
+  5 :   0.091s
+Time_Stamp :  10.384
+Executing Task Priority :  17
+Time_Stamp :  10.400
+Measurement of Execution Times
+  5 :   0.093s
+Time_Stamp :  10.493
+Executing Task Priority :  20
+Time_Stamp :  10.500
+Measurement of Execution Times
+  5 :   0.093s
+Time_Stamp :  10.593
+ 10 :   0.645s
+Time_Stamp :  10.642
+In WDTExecuting Task Priority :  20
+Time_Stamp :  10.803
+Measurement of Execution Times
+  5 :   0.109s
+Time_Stamp :  10.912
+Executing Task Priority :  17
+Time_Stamp :  10.913
+Measurement of Execution Times
+  5 :   0.091s
+Time_Stamp :  11.004
+Executing Task Priority :  14
+Time_Stamp :  11.004
+Measurement of Execution Times
+  5 :   0.091s
+Time_Stamp :  11.096
+Executing Task Priority :  10
+Time_Stamp :  11.096
+Measurement of Execution Times
+Executing Task Priority :  20
+Time_Stamp :  11.100
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :  11.193
+Executing Task Priority :  17
+Time_Stamp :  11.201
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :  11.293
+Executing Task Priority :  20
+Time_Stamp :  11.401
+Measurement of Execution Times
+  5 :   0.093s
+Time_Stamp :  11.494
+Executing Task Priority :  14
+Time_Stamp :  11.495
+Measurement of Execution Times
+  5 :   0.091s
+Time_Stamp :  11.585
+Executing Task Priority :  17
+Time_Stamp :  11.600
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :  11.692
+Executing Task Priority :  20
+Time_Stamp :  11.700
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :  11.793
+ 10 :   0.739s
+Time_Stamp :  11.835
+Executing Task Priority :  10
+Time_Stamp :  11.835
+Measurement of Execution Times
+Executing Task Priority :  20
+Time_Stamp :  12.000
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :  12.092
+Executing Task Priority :  17
+Time_Stamp :  12.093
+Measurement of Execution Times
+  5 :   0.091s
+Time_Stamp :  12.183
+Executing Task Priority :  14
+Time_Stamp :  12.184
+Measurement of Execution Times
+  5 :   0.096s
+Time_Stamp :  12.280
+ 10 :   0.462s
+Time_Stamp :  12.297
+Calling : WDT : 
+Success : WDT
+Executing Task Priority :  20
+Time_Stamp :  12.301
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :  12.393
+Executing Task Priority :  17
+Time_Stamp :  12.401
+Measurement of Execution Times
+  5 :   0.140s
+Time_Stamp :  12.541
+Executing Task Priority :  20
+Time_Stamp :  12.601
+Measurement of Execution Times
+  5 :   0.105s
+Time_Stamp :  12.707
+Executing Task Priority :  14
+Time_Stamp :  12.707
+Measurement of Execution Times
+  5Executing Task Priority :  17
+Time_Stamp :  12.801
+Measurement of Execution Times
+  5 :   0.091s
+Time_Stamp :  12.891
+ :   0.184s
+Time_Stamp :  12.892
+Executing Task Priority :  10
+Time_Stamp :  12.892
+Measurement of Execution Times
+Executing Task Priority :  20
+Time_Stamp :  12.900
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :  12.993
+ 10 :   0.277s
+Time_Stamp :  13.170
+Executing Task Priority :  20
+Time_Stamp :  13.202
+Measurement of Execution Times
+  5 :   0.091s
+Time_Stamp :  13.294
+Executing Task Priority :  17
+Time_Stamp :  13.295
+Measurement of Execution Times
+  5 :   0.091s
+Time_Stamp :  13.386
+Executing Task Priority :  14
+Time_Stamp :  13.387
+Measurement of Execution Times
+  5 :   0.091s
+Time_Stamp :  13.478
+Executing Task Priority :  20
+Time_Stamp :  13.501
+Measurement of Execution Times
+  5 :   0.094s
+Time_Stamp :  13.595
+Executing Task Priority :  10
+Time_Stamp :  13.596
+Measurement of Execution Times
+Executing Task Priority :  17
+Time_Stamp :  13.600
+Measurement of Execution Times
+  5 :   0.093s
+Time_Stamp :  13.693
+Executing Task Priority :  20
+Time_Stamp :  13.800
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :  13.893
+Executing Task Priority :  14
+Time_Stamp :  13.893
+Measurement of Execution Times
+  5 :   0.093s
+Time_Stamp :  13.986
+Executing Task Priority :  17
+Time_Stamp :  14.000
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :  14.093
+Executing Task Priority :  20
+Time_Stamp :  14.101
+Measurement of Execution Times
+  5 :   0.094s
+Time_Stamp :  14.196
+ 10 :   0.650s
+Time_Stamp :  14.246
+In WDTExecuting Task Priority :  20
+Time_Stamp :  14.403
+Measurement of Execution Times
+  5 :   0.111s
+Time_Stamp :  14.515
+Executing Task Priority :  17
+Time_Stamp :  14.515
+Measurement of Execution Times
+  5 :   0.093s
+Time_Stamp :  14.608
+Executing Task Priority :  14
+Time_Stamp :  14.608
+Measurement of Execution Times
+  5 :   0.092s
+Executing Task Priority :  20
+Time_Stamp :  14.701
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :  14.792
+Time_Stamp :  14.793
+Executing Task Priority :  10
+Time_Stamp :  14.793
+Measurement of Execution Times
+Executing Task Priority :  17
+Time_Stamp :  14.801
+Measurement of Execution Times
+  5 :   0.091s
+Time_Stamp :  14.892
+Executing Task Priority :  20
+Time_Stamp :  15.000
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :  15.093
+Executing Task Priority :  14
+Time_Stamp :  15.093
+Measurement of Execution Times
+  5 :   0.090s
+Time_Stamp :  15.184
+Executing Task Priority :  17
+Time_Stamp :  15.200
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :  15.292
+Executing Task Priority :  20
+Time_Stamp :  15.301
+Measurement of Execution Times
+  5 :   0.093s
+Time_Stamp :  15.394
+ 10 :   0.644s
+Time_Stamp :  15.437
+Executing Task Priority :  10
+Time_Stamp :  15.438
+Measurement of Execution Times
+Executing Task Priority :  20
+Time_Stamp :  15.601
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :  15.694
+Executing Task Priority :  17
+Time_Stamp :  15.694
+Measurement of Execution Times
+  5 :   0.091s
+Time_Stamp :  15.785
+Executing Task Priority :  14
+Time_Stamp :  15.786
+Measurement of Execution Times
+  5 :   0.089s
+Time_Stamp :  15.875
+Executing Task Priority :  20
+Time_Stamp :  15.900
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :  15.992
+Executing Task Priority :  17
+Time_Stamp :  16.000
+Measurement of Execution Times
+  5 :   0.093s
+Time_Stamp :  16.093
+ 10 :   0.698s
+Time_Stamp :  16.136
+Calling : WDT : 
+Success : WDT
+Executing Task Priority :  20
+Time_Stamp :  16.201
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :  16.294
+Executing Task Priority :  14
+Time_Stamp :  16.294
+Measurement of Execution Times
+  5 :   0.091s
+Time_Stamp :  16.385
+Executing Task Priority :  10
+Time_Stamp :  16.386
+Measurement of Execution Times
+Executing Task Priority :  17
+Time_Stamp :  16.401
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :  16.494
+Executing Task Priority :  20
+Time_Stamp :  16.500
+Measurement of Execution Times
+  5 :   0.093s
+Time_Stamp :  16.594
+ 10 :   0.370s
+Time_Stamp :  16.756
+Executing Task Priority :  20
+Time_Stamp :  16.802
+Measurement of Execution Times
+  5 :   0.094s
+Time_Stamp :  16.896
+Executing Task Priority :  17
+Time_Stamp :  16.897
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :  16.989
+Executing Task Priority :  14
+Time_Stamp :  16.990
+Measurement of Execution Times
+  5 :   0.090s
+Time_Stamp :  17.080
+Executing Task Priority :  20
+Time_Stamp :  17.101
+Measurement of Execution Times
+  5 :   0.095s
+Time_Stamp :  17.196
+Executing Task Priority :  10
+Time_Stamp :  17.196
+Measurement of Execution Times
+Executing Task Priority :  17
+Time_Stamp :  17.200
+Measurement of Execution Times
+  5 :   0.096s
+Time_Stamp :  17.296
+Executing Task Priority :  20
+Time_Stamp :  17.401
+Measurement of Execution Times
+  5 :   0.093s
+Time_Stamp :  17.493
+Executing Task Priority :  14
+Time_Stamp :  17.494
+Measurement of Execution Times
+  5 :   0.091s
+Time_Stamp :  17.585
+Executing Task Priority :  17
+Time_Stamp :  17.600
+Measurement of Execution Times
+  5 :   0.091s
+Time_Stamp :  17.691
+Executing Task Priority :  20
+Time_Stamp :  17.701
+Measurement of Execution Times
+  5 :   0.093s
+Time_Stamp :  17.795
+ 10 :   0.648s
+Time_Stamp :  17.845
+In WDTExecuting Task Priority :  20
+Time_Stamp :  18.009
+Measurement of Execution Times
+  5 :   0.096s
+Time_Stamp :  18.105
+Executing Task Priority :  17
+Time_Stamp :  18.105
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :  18.197
+Executing Task Priority :  14
+Time_Stamp :  18.198
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :  18.290
+Executing Task Priority :  10
+Time_Stamp :  18.290
+Measurement of Execution Times
+Executing Task Priority :  20
+Time_Stamp :  18.300
+Measurement of Execution Times
+  5 :   0.093s
+Time_Stamp :  18.394
+Executing Task Priority :  17
+Time_Stamp :  18.401
+Measurement of Execution Times
+  5 :   0.093s
+Time_Stamp :  18.494
+Executing Task Priority :  20
+Time_Stamp :  18.600
+Measurement of Execution Times
+  5 :   0.091s
+Time_Stamp :  18.692
+Executing Task Priority :  14
+Time_Stamp :  18.692
+Measurement of Execution Times
+  5 :   0.090s
+Time_Stamp :  18.783
+Executing Task Priority :  17
+Time_Stamp :  18.800
+Measurement of Execution Times
+  5 :   0.091s
+Time_Stamp :  18.892
+Executing Task Priority :  20
+Time_Stamp :  18.900
+Measurement of Execution Times
+  5 :   0.094s
+Time_Stamp :  18.995
+ 10 :   0.738s
+Time_Stamp :  19.028
+Executing Task Priority :  10
+Time_Stamp :  19.029
+Measurement of Execution Times
+Executing Task Priority :  20
+Time_Stamp :  19.201
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :  19.293
+Executing Task Priority :  17
+Time_Stamp :  19.293
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :  19.385
+Executing Task Priority :  14
+Time_Stamp :  19.386
+Measurement of Execution Times
+  5 :   0.091s
+Time_Stamp :  19.477
+Executing Task Priority :  20
+Time_Stamp :  19.537
+Measurement of Execution Times
+  5 :   0.090s
+Time_Stamp :  19.627
+Executing Task Priority :  17
+Time_Stamp :  19.627
+Measurement of Execution Times
+  5 :   0.090s
+Time_Stamp :  19.717
+ 10 :   0.694s
+Time_Stamp :  19.723
+Calling : WDT : 
+Success : WDT
+Executing Task Priority :  20
+Time_Stamp :  19.804
+Measurement of Execution Times
+  5 :   0.113s
+Time_Stamp :  19.918
+Executing Task Priority :  14
+Time_Stamp :  19.918
+Measurement of Execution Times
+Executing Task Priority :  17
+Time_Stamp :  20.001
+Measurement of Execution Times
+  5 :   0.090s
+Time_Stamp :  20.091
+  5 :   0.181s
+Time_Stamp :  20.099
+Executing Task Priority :  10
+Time_Stamp :  20.100
+Measurement of Execution Times
+Executing Task Priority :  20
+Time_Stamp :  20.100
+Measurement of Execution Times
+  5 :   0.093s
+Time_Stamp :  20.193
+ 10 :   0.276s
+Time_Stamp :  20.376
+Executing Task Priority :  20
+Time_Stamp :  20.402
+Measurement of Execution Times
+  5 :   0.094s
+Time_Stamp :  20.496
+Executing Task Priority :  17
+Time_Stamp :  20.496
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :  20.589
+Executing Task Priority :  14
+Time_Stamp :  20.589
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :  20.681
+Executing Task Priority :  20
+Time_Stamp :  20.701
+Measurement of Execution Times
+  5 :   0.095s
+Time_Stamp :  20.796
+Executing Task Priority :  10
+Time_Stamp :  20.796
+Measurement of Execution Times
+Executing Task Priority :  17
+Time_Stamp :  20.800
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :  20.893
+Executing Task Priority :  20
+Time_Stamp :  21.000
+Measurement of Execution Times
+  5 :   0.091s
+Time_Stamp :  21.091
+Executing Task Priority :  14
+Time_Stamp :  21.092
+Measurement of Execution Times
+  5 :   0.094s
+Time_Stamp :  21.185
+Executing Task Priority :  17
+Time_Stamp :  21.201
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :  21.293
+Executing Task Priority :  20
+Time_Stamp :  21.300
+Measurement of Execution Times
+  5 :   0.095s
+Time_Stamp :  21.396
+ 10 :   0.649s
+Time_Stamp :  21.445
+In WDTExecuting Task Priority :  20
+Time_Stamp :  21.605
+Measurement of Execution Times
+  5 :   0.103s
+Time_Stamp :  21.708
+Executing Task Priority :  17
+Time_Stamp :  21.709
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :  21.801
+Executing Task Priority :  14
+Time_Stamp :  21.802
+Measurement of Execution Times
+  5 :   0.090s
+Time_Stamp :  21.893
+Executing Task Priority :  10
+Time_Stamp :  21.893
+Measurement of Execution Times
+Executing Task Priority :  20
+Time_Stamp :  21.901
+Measurement of Execution Times
+  5 :   0.097s
+Time_Stamp :  21.998
+Executing Task Priority :  17
+Time_Stamp :  22.000
+Measurement of Execution Times
+  5 :   0.092s
+Time_Stamp :  22.092
+Executing Task Priority :  20
+Time_Stamp :  22.201
+Measurement of Execution Times
+  5 :   0.095s
+Time_Stamp :  22.296
+Executing Task Priority :  14
+Time_Stamp :  22.296
+Measurement of Execution Times
+  5 :   0.093s
+Time_Stamp :  22.390
+Executing Task Priority :  17
+Time_Stamp :  22.400
+Measurement of Execution Times
+  5 :   0.091s
+Time_Stamp :  22.491
+Executing Task Priority :  20
+Time_Stamp :  22.500
+Measurement of Execution Times
+  5 :   0.091s
+Time_Stamp :  22.592
+ 10 :   0.747s
+Time_Stamp :  22.640
+Executing Task Priority :  10
+Time_Stamp :  22.640
+Measurement of Execution Times
+Executing Task Priority :  20
+Time_Stamp :  22.801
+Measurement of Execution Times
+  5 :   0.093s
+Time_Stamp :  22.894
+Executing Task Priority :  17
+Time_Stamp :  22.894
+Measurement of Execution Times
+  5 :   0.095s
+Time_Stamp :  22.989
+Executing Task Priority :  14
+Time_Stamp :  22.990
+Measurement of Execution Times
+  5 :   0.097s
+Time_Stamp :  23.087
+Executing Task Priority :  20
+Time_Stamp :  23.100
+Measurement of Execution Times
+  5 :   0.098s
+Time_Stamp :  23.198
+Executing Task Priority :  17
+Time_Stamp :  23.200
+Measurement of Execution Times
+  5 :   0.100s
+Time_Stamp :  23.300
+ 10 :   0.667s
+Time_Stamp :  23.308
+Calling : WDT : 
+Success : WDT
+[2014-02-02 23:19:47] <^C> process interrupted (elapsed time: 23.51s)
