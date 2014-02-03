@@ -1,0 +1,122 @@
+/home/il2206/producerconsumer_sem
+
+Writing to X
+Reading X          1
+
+Writing to X
+Reading X          2
+
+Writing to X
+Reading X          3
+
+Writing to X
+Reading X          4
+
+Writing to X
+Reading X          5
+
+Writing to X
+Reading X          6
+
+Writing to X
+Reading X          7
+
+Writing to X
+Reading X          8
+
+Writing to X
+Reading X          9
+
+Writing to X
+Reading X         10
+
+Writing to X
+Reading X         11
+
+Writing to X
+Reading X         12
+
+Writing to X
+Reading X         13
+
+Writing to X
+Reading X         14
+
+Writing to X
+Reading X         15
+
+Writing to X
+Reading X         16
+
+Writing to X
+Reading X         17
+
+Writing to X
+Reading X         18
+
+Writing to X
+Reading X         19
+
+Writing to X
+Reading X         20
+
+Writing to X
+Reading X         21
+
+Writing to X
+Reading X         22
+
+Writing to X
+Reading X         23
+
+Writing to X
+Reading X         24
+
+Writing to X
+Reading X         25
+
+Writing to X
+Reading X         26
+
+Writing to X
+Reading X         27
+
+Writing to X
+Reading X         28
+
+Writing to X
+Reading X         29
+
+Writing to X
+Reading X         30
+
+Writing to X
+Reading X         31
+
+Writing to X
+Reading X         32
+
+Writing to X
+Reading X         33
+
+Writing to X
+Reading X         34
+
+Writing to X
+Reading X         35
+
+Writing to X
+Reading X         36
+
+Writing to X
+Reading X         37
+
+Writing to X
+Reading X         38
+
+Writing to X
+Reading X         39
+
+Writing to X
+Reading X         40
+[2014-02-03 02:28:40] process terminated successfully (elapsed time: 06.30s)

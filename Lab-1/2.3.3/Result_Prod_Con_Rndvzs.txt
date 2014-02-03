@@ -1,0 +1,162 @@
+/home/il2206/producerconsumer_rndvzs
+Data Added to Buffer
+Reading Data
+          1
+
+Data Added to Buffer
+Data Added to Buffer
+Reading Data
+          2
+
+Data Added to Buffer
+Reading Data
+          3
+
+Data Added to Buffer
+Reading Data
+          4
+
+Data Added to Buffer
+Data Added to Buffer
+Data Added to Buffer
+Reading Data
+          5
+
+Data Added to Buffer
+Reading Data
+          6
+
+Data Added to Buffer
+Reading Data
+          7
+
+Data Added to Buffer
+Reading Data
+          8
+
+Data Added to Buffer
+Reading Data
+          9
+
+Data Added to Buffer
+Reading Data
+         10
+
+Data Added to Buffer
+Reading Data
+         11
+
+Data Added to Buffer
+Reading Data
+         12
+
+Data Added to Buffer
+Reading Data
+         13
+
+Data Added to Buffer
+Reading Data
+         14
+
+Data Added to Buffer
+Reading Data
+         15
+
+Data Added to Buffer
+Reading Data
+         16
+
+Data Added to Buffer
+Reading Data
+         17
+
+Data Added to Buffer
+Reading Data
+         18
+
+Data Added to Buffer
+Reading Data
+         19
+
+Data Added to Buffer
+Reading Data
+         20
+
+Data Added to Buffer
+Reading Data
+         21
+
+Data Added to Buffer
+Reading Data
+         22
+
+Data Added to Buffer
+Reading Data
+         23
+
+Data Added to Buffer
+Reading Data
+         24
+
+Data Added to Buffer
+Reading Data
+         25
+
+Data Added to Buffer
+Reading Data
+         26
+
+Data Added to Buffer
+Reading Data
+         27
+
+Data Added to Buffer
+Reading Data
+         28
+
+Data Added to Buffer
+Reading Data
+         29
+
+Data Added to Buffer
+Reading Data
+         30
+
+Data Added to Buffer
+Reading Data
+         31
+
+Data Added to Buffer
+Reading Data
+         32
+
+Data Added to Buffer
+Reading Data
+         33
+
+Data Added to Buffer
+Reading Data
+         34
+
+Data Added to Buffer
+Reading Data
+         35
+
+Data Added to Buffer
+Reading Data
+         36
+
+Data Added to Buffer
+Reading Data
+         37
+
+Reading Data
+         38
+
+Reading Data
+         39
+
+Reading Data
+         40
+
+[2014-02-03 02:32:50] process terminated successfully (elapsed time: 06.33s)

@@ -51,6 +51,7 @@ procedure ProducerConsumer_sem is
       for I in 1..N loop
          -- Read from X
          Sem.Wait;
+		 Put("Reading X");
          Put(X);
          New_Line;
          Next := Next + Milliseconds(Random(G));
