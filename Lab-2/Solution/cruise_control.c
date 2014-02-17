@@ -899,7 +899,7 @@ void DYNAMIC_UTI(void* pdata)
        switch_status = switch_status & 1008; // Mask for SW4 - SW9
        
        switch_status = switch_status >> 4;
-       printf("Before loop : Time : %d, SwitchStatus : %d \n", (int) (alt_timestamp() / (alt_timestamp_freq()/1000), switch_status));
+       printf("Before loop : Time : %d, SwitchStatus : %d \n", (int) (alt_timestamp() / (alt_timestamp_freq()/1000)), switch_status);
         //printf("switch_status : %d\n",switch_status);
        
        if(switch_status > 50)
